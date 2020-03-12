@@ -1,0 +1,9 @@
+redperipherallib (0.0.3.4) unstable; urgency=low
+
+    * add setuid on example install so 'sudo' is not needed
+    * add ldconfig to deb package scripts
+ 
+ -- Neeraj Dantu <neeraj.dantu@octavosystems.com> Fri, 15 Mar 2017 17:32:00 +0000
+ -- James Strawson <james@strawsondesign.com>  Tue, 07 Mar 2017 02:47:00 +0000
+
+

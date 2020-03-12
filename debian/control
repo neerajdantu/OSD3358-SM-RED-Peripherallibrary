@@ -1,0 +1,16 @@
+Source: redperipherallib
+Section: utils
+Priority: optional
+Build-Depends: debhelper (>= 9),
+         devscripts,
+         debconf (>= 0.2.26),
+         ti-pru-cgt-installer,
+         pru-software-support-package,
+Standards-Version: 3.9.5
+Maintainer: Neeraj Dantu <neeraj.dantu@octavosystems.com>
+Credit to James Stawson <james@strawsondesign.com> for orginal roboticscape library
+Homepage: <www.strawsondesign.com>
+
+Package: redperipherallib
+Architecture: armhf
+Description: Redperipherallib Library and Examples
